@@ -1,0 +1,7 @@
+rabbit.host=
+rabbit.port=
+rabbit.virtualhost=
+rabbit.username=
+rabbit.password=
+rabbit.requestqueue=
+rabbit.responsequeue=
