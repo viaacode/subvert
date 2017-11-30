@@ -6,7 +6,7 @@ This service converts a XIF file to an SRT file. Publish a request onto the corr
 <root>
     <correlationId>abc123</correlationId>
     <data>
-        <![CDATA[<XIF version="1.0" filename="C:\Users\akbasi\AppData\Local\Temp\Sen1.XIF">...</XIF>]]>
+        <![CDATA[<XIF version="1.0">...</XIF>]]>
     </data>
 </root>
 ```
